@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>Git hilton branch</p>
+      <p>Git master branch</p>
     </div>
   );
 }
