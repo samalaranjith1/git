@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <p>Git New branch</p>
       <p>LatestBranch</p>
-    <p>LatestBranch updated directly from UI</p>
+      <p>LatestBranch updated directly from UI</p>
+      <p>HI this from local</p>
     </div>
   );
 }
