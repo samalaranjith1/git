@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <p>I will be revert to this commit </p>
-      <p>temp files </p>
     </div>
   );
 }
