@@ -4,9 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>give going to revert to this command</p>
-      <p>after one comit</p>
-      <p>after two comit</p>
+      <p>I will be revert to this commit </p>
     </div>
   );
 }
