@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>give going to revert to this command</p>
+      <p>give trying revert command</p>
     </div>
   );
 }
