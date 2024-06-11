@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <p>I will be revert to this commit </p>
-      <p>I will be revert to this commit </p>
-      <p>adding to the same commit </p>
+      <p>ammending commit</p>
+      <p>ammending changes again</p>
     </div>
   );
 }
